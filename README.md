@@ -22,4 +22,4 @@ implemented analysis elements:
 6. described salary destribution inside departments
 7. performed statistical tests: checked data destribution and selected the appropriate test
 8. for a better understanding, I carried out statistics on the employees who left and those who remained
-9. built plots for binary and non binary features, trained a few LinearDiiscriminantAnalysis models (for scaled, normalized data) 
+9. built plots for binary and non binary features, trained a few LinearDiscriminantAnalysis models (for scaled, normalized data) 
