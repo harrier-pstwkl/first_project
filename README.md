@@ -14,10 +14,12 @@ dafa features:
 10. salary - относительный уровень зарплаты
 
 implemented analysis elements:
-1-2. read file and getting descriptice statistics
+1. read file
+2. got descriptice statistics
 3. performed correlation analysis with sns.heatmap
 4. got number of employees inside each department
-5-6. described salary destribution inside departments
+5. described salary destribution 
+6. described salary destribution inside departments
 7. performed statistical tests: checked data destribution and selected the appropriate test
 8. for a better understanding, I carried out statistics on the employees who left and those who remained
 9. built plots for binary and non binary features, trained a few LinearDiiscriminantAnalysis models (for scaled, normalized data) 
