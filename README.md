@@ -2,16 +2,16 @@
 releasing analysis of employee job satisfaction survey data
 
 dafa features:
-1. satisfaction_level - Уровень удовлетворенности работой
-2. Last_evaluation - Время с момента последней оценки в годах
-3. number_projects - Количество проектов, выполненных за время работы
-4. average_monthly_hours - Среднее количество часов на рабочем месте в месяц
-5. time_spend_company - Стаж работы в компании в годах
-6. work_accident - Происходили ли несчастные случаи на рабочем месте с сотрудником
-7. left - уволился ли сотрудник
-8. promotion_last_5years - повышался ли сотрудник за последние пять лет
-9. department - отдел в котором работает сотрудник
-10. salary - относительный уровень зарплаты
+1. satisfaction_level - Job satisfaction level
+2. Last_evaluation - Time since last assessment in years
+3. number_projects - Number of projects completed during work
+4. average_monthly_hours - Average number of hours at work per month
+5. time_spend_company - Years of experience with the company
+6. work_accident - The fact that there have been accidents with employees in the workplace
+7. left - Whether the employee quit
+8. promotion_last_5years - The fact that the employee has been promoted within the last five years
+9. department - Department in which the employee works
+10. salary - Relative salary level
 
 implemented analysis elements:
 1. read file
